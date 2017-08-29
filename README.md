@@ -21,7 +21,9 @@ WebGoat
 
 Instructions:
 
-Download VulnWeb zip file.  Then unzip contents.  Download Vmware and File -> Open contents from file.
+Download VulnWeb zip file, and unzip contents.  Download Vmware Player and install.
+
+From Vmware Player menu choose "Open A Virtual Machine" choose the VulnWeb.vmx file and hit play.
 
 Download Link:
 http://www.mediafire.com/file/632cga8cap8j44n/VulnWeb.zip
