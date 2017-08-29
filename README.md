@@ -24,7 +24,7 @@ Instructions:
 Download VulnWeb zip file.  Then unzip contents.  Download Vmware and File -> Open contents from file.
 
 Download Link:
-https://www.mediafire.com/?rp67ly04yv8t4cl
+http://www.mediafire.com/file/632cga8cap8j44n/VulnWeb.zip
 
 ![Alt text](https://image.ibb.co/ivSi95/vulnweb.png "VulnWeb")
 ![Alt text](https://image.ibb.co/dxbAp5/vulnweb1.png "VulnWeb")
